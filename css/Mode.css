@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: bisque;
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+header img{
+    max-width: 50%;
+}
+header h1{
+    color:white;  
+    font-size: 50px; 
+}
+header img{
+    border-radius: 50px;
+    border: 10px solid rgba(0, 212, 250, 0.705);
+}
+
+main{
+    max-width: 1920px;
+    text-align: center;
+}
+
+main img{
+    max-width: 100%;
+}
+a:hover{
+    color:rgba(0, 212, 250, 0.705);
+}
+ul{
+    list-style-position:inside;
+}
